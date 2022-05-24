@@ -35,9 +35,9 @@ Required tech implementations:
 We value the following implementations:
 -
 
-- DataBinding;
-- Coroutines or RxAndroid;
-- Image Loader (Volley/Picasso/Glide);
+- Jetpack Compose or DataBinding for UI;
+- Coroutines (Suspend/Flow/Channels);
+- Image Loader (Glide/Volley/Picasso);
 - Retrofit/OKHttp client for API communication;
 - Animations;
 - Unit tests;
