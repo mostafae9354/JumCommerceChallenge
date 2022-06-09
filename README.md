@@ -126,8 +126,8 @@ NOTE: The mocklab API is based in JSON mocks and only supports the following req
 Sample screens: (Phones List and Phone Detail)
 -
 
-<div><img src="https://github.com/bernardopinaptc/ptcChallenge/blob/master/screen_1.jpg?raw=true" width="260" height="420"/><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAABCAYAAADeko4lAAAAEElEQVR42mNk+M9Qz0BFAAB1hgGA401i0gAAAABJRU5ErkJggg==" width="20">
-<img src="https://github.com/bernardopinaptc/ptcChallenge/blob/master/screen_2.jpg?raw=true" width="260" height="420"/>
+<div><img src="https://github.com/bernardopinaptc/ptc_android_test/blob/development_mocklab/screen_1.jpg?raw=true" width="260" height="420"/><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAABCAYAAADeko4lAAAAEElEQVR42mNk+M9Qz0BFAAB1hgGA401i0gAAAABJRU5ErkJggg==" width="20">
+<img src="https://github.com/bernardopinaptc/ptc_android_test/blob/development_mocklab/screen_2.jpg?raw=true" width="260" height="420"/>
     </div>
     
     
